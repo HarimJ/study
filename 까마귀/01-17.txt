@@ -1,0 +1,36 @@
+캐글 : 데이터 경진대회 -> 꼭 해보자!
+ - 캐글 시작 : 타이타닉으로 시작 많이 한다
+
+
+Tableau 를 통해서 제주도 와이파이와 다른 데이터 조인해서 봐보자
+
+
+NDAP
+
+
+ # 실습
+1. 제주데이터 허브 로그인
+2. 마이페이지에서 앱생성하기
+3. 발행된 앱키 저장하기
+4. 데이터셋 검색(예. 카카오자동차) 하여 선택
+5. 데이터셋중 상세데이터 선택
+6. API 별로 반드시 필요한 필드에 입력
+7. API 실행(또는 새창에서 URL copy&paste)
+
+
+# Tableau---> 그래프 그려주기 편하다 ( 머신러닝 까진 아니더라도 비즈니스 분석하기에 좋다 ) 
+## 조인도 편하고 시각화도 편하다  (추가 눌러주면 조인됨)
+ 
+https://blog.naver.com/bosongmoon/221743466634
+https://blog.naver.com/liyuna87/221726063438
+https://blog.naver.com/sky_parrot/221595366353
+https://m.blog.naver.com/kijun0115/221168436413
+
+
+- 설치URL(무료 평가판)
+    1. Tableau Desktop: https://www.tableau.com/ko-kr/products/trial
+   2. Talbeau Prep: https://www.tableau.com/ko-kr/products/prep/download
+
+
+QGIS 도 좋다 
+http://www.qgistutorials.com/ko/docs/3/making_a_map.html
